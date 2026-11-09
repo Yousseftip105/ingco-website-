@@ -2,9 +2,10 @@
 
 A bilingual (French / Arabic) catalog website for INGCO Mohammedia, a tools and equipment store with branches in Mohammedia, Morocco. Customers browse about 600 products, fill a cart, and send the order to the branch of their choice on WhatsApp. Payment happens offline, so the site needs no online payment system and no staff to manage accounts.
 
-**Live site:** https://ingco-mohammedia.company
+**Live site:** https://ingcomohammedia.company/
 
-![Home page screenshot](screenshots/home.png)
+<img width="1721" height="942" alt="image" src="https://github.com/user-attachments/assets/ae604df8-8c99-4196-8fa1-2a94c51a3430" />
+
 
 ## Features
 
